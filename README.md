@@ -84,11 +84,18 @@ swr: ^2.1.0 | jsonwebtoken: ^9.0.0
 
 # Screenshots of this project
 
-User can log in and view Home page
+User can log in and view Home page:
 ![User can log in and view Home page 1](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/LogIn.png)
 ![User can log in and view Home page 2](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/LogIn2.png)
 ![User can log in and view Home page 3](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/landingPage.png)
 
+Mobile view adaptation:
+![](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/mobile_createRecipe.png)
+![](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/mobile_hamburger.png)
+![](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/mobile_landingPage.png)
+![](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/mobile_logIn.png)
+![](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/mobile_showMore.png)
+![](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/mobile_userRecipes.png)
 
 ## Author
 [Matimateokol](https://github.com/Matimateokol/)
