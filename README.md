@@ -1,10 +1,11 @@
 # ukemochi-food-app
 MERN stack web application for creating and reading culinary recipes.
+![Ukemochi-food-goddess](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/ukemochi2.png)
 <h1 align="center">
 🌐 MERN Stack
 </h1>
 <p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs
+MongoDB, Expressjs, React, Nodejs
 </p>
 
 <p align="center">
