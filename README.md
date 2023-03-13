@@ -1,5 +1,6 @@
 # ukemochi-food-app
 MERN stack web application for creating and reading culinary recipes.
+![Ukemochi-app-demo](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/demo1.gif)
 ![Ukemochi-food-goddess](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/ukemochi2.png)
 <h1 align="center">
 🌐 MERN Stack
@@ -45,7 +46,7 @@ $ yarn build // this will compile the react code using webpack and generate a fo
 $ yarn start // this will run the files in build, this behavior is exactly the same how gh-pages will run your static site
 ```
 
-## Server-side usage(PORT: 8000)
+## Backend-side usage(PORT: 4000)
 
 ### Prepare your secret
 
@@ -83,14 +84,11 @@ swr: ^2.1.0 | jsonwebtoken: ^9.0.0
 
 # Screenshots of this project
 
-User visit public and Home page
-![User visit public and Home page]()
+User can log in and view Home page
+![User can log in and view Home page 1](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/LogIn.png)
+![User can log in and view Home page 2](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/LogIn2.png)
+![User can log in and view Home page 3](https://github.com/Matimateokol/ukemochi-food-app/blob/main/ukemochi-screenshots/landingPage.png)
 
-User can sign in or sign up
-![User can sign in or sign up]()
-
-After signing in user can go to account route and make request to token-protected API endpoint
-![After signing in user can go to account route]()
 
 ## Author
 [Matimateokol](https://github.com/Matimateokol/)
