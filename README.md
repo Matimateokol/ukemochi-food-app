@@ -20,6 +20,14 @@ MongoDB, Expressjs, React, Nodejs
 
 > MERN is a fullstack implementation in MongoDB, Expressjs, React/Redux, Nodejs.
 
+# Features:
+* loging in and signing up in JWT based user session
+* creating and viewing all recipes in the system
+* creating and viewing of personal recipes
+* highly efficient fuzzy search (MongoDB dynamic indexes)
+* uploading recipe image to Cloudinary
+* logging out and secured routes
+
 ## clone or download
 ```terminal
 $ git clone https://github.com/Matimateokol/ukemochi-food-app.git
