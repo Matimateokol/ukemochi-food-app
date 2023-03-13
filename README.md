@@ -28,6 +28,7 @@ MongoDB, Expressjs, React, Nodejs
 * uploading recipe image to Cloudinary
 * logging out and secured routes
 * mobile view adaptation
+* frontend and backend form / requests validations
 
 ## clone or download
 ```terminal
