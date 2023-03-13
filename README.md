@@ -27,6 +27,7 @@ MongoDB, Expressjs, React, Nodejs
 * highly efficient fuzzy search (MongoDB dynamic indexes)
 * uploading recipe image to Cloudinary
 * logging out and secured routes
+* mobile view adaptation
 
 ## clone or download
 ```terminal
